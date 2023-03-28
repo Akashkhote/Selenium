@@ -1,6 +1,6 @@
 package arrys;
 
-public class PalindromeArray 
+public class PalindromeArray khoteakash
 {
 	public static void main(String[] args) 
 	{
